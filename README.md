@@ -3,11 +3,11 @@
 The Autonomy Accountability Framework (AAF) is a governance architecture
 for evaluating accountability in autonomous AI agent systems.
 The Autonomy Accountability Framework includes several conceptual constructs:
-• Autonomy Accountability Index (AAI)
-• Agent Accountability Stack (AAS)
-• Agent Accountability Gap (AAG)
-• Governance Debt (GD)
-• Autonomy Accountability Curve (AAC)
+-  Autonomy Accountability Index (**AAI**)
+-  Agent Accountability Stack (**AAS**)
+-  Agent Accountability Gap (**AAG**)
+-  Governance Debt (**GD**)
+-  Autonomy Accountability Curve (**AAC**)
 
 These constructs collectively describe the relationship between agent autonomy and governance maturity within autonomous AI agent systems.
 The framework is designed to evaluate governance readiness before autonomous agent systems reach operational, financial, or compliance-sensitive environments.
@@ -28,10 +28,11 @@ Maintained by: Stratify Intelligence
 ### Why This Exists
 AI agent systems are evolving from tools to autonomous operators.
 As autonomy increases, so does risk exposure across:
-Financial execution
-Customer interaction
-Compliance environments
-Cross-system orchestration
+- Financial execution
+- Customer interaction
+- Compliance environments
+- Cross-system orchestration
+  
 The industry currently optimizes for capability.
 Unchecked autonomy creates asymmetric downside.
 Governance maturity remains inconsistent.
@@ -39,11 +40,11 @@ AAI introduces a structured way to assess governance readiness before autonomy s
 
 ### What AAI Does
 AAI evaluates agent systems across five governance dimensions:
-Execution Control
-Financial Safeguards
-Compliance and Auditability
-Failure Handling
-Human Override Architecture
+- Execution Control
+- Financial Safeguards
+- Compliance and Auditability
+- Failure Handling
+- Human Override Architecture
 
 Each dimension is scored to produce a structured governance exposure profile.
 This is not a compliance certification.
@@ -52,41 +53,41 @@ It is a governance readiness lens.
 ### Scoring Model Overview
 Each dimension is evaluated using structured indicators.
 Score Range:
-0 to 5 per dimension
+0 to 5 per dimension  
 Composite Output:
 Autonomy Score
 Accountability Score
 
 ### Risk Tiers:
-Tier 1: Experimental
-Tier 2: Assisted
-Tier 3: Operational
-Tier 4: Financially Exposed
-Tier 5: Compliance Critical
+Tier 1: Experimental  
+Tier 2: Assisted  
+Tier 3: Operational  
+Tier 4: Financially Exposed  
+Tier 5: Compliance Critical  
 
 ### Who This Is For
-AI agent builders
-Enterprise AI teams
-Technical founders
-Risk teams
-Venture investors evaluating agent exposure
+AI agent builders  
+Enterprise AI teams  
+Technical founders  
+Risk teams  
+Venture investors evaluating agent exposure  
 
 ### What This Is Not
 AAI is not:
-Legal advice
-Regulatory certification
-Security audit documentation
-Investment recommendation
+- Legal advice
+- Regulatory certification
+- Security audit documentation
+- Investment recommendation
 
 It is a structured governance interpretation framework.
 
 ### Roadmap
 Phase 1:
-Static evaluation framework and scoring model
+Static evaluation framework and scoring model  
 Phase 2:
-Lightweight CLI scoring tool
+Lightweight CLI scoring tool  
 Phase 3:
-Optional governance dashboard layer
+Optional governance dashboard layer  
 
 ### Governance Positioning Statement
 AAI is not anti-autonomy.
