@@ -1,3 +1,11 @@
+#Autonomy Accountability Framework
+
+The Autonomy Accountability Framework (AAF) is a governance architecture
+for evaluating accountability in autonomous AI agent systems.
+
+One component of the framework is the Autonomy Accountability Index (AAI),
+a structured evaluation model that measures governance readiness.
+
 # Autonomy Accountability Index (AAI)
 A structured governance evaluation framework for AI agent systems.
 Autonomy wins capability.
