@@ -39,21 +39,76 @@ A structured evaluation framework that measures governance readiness.
 These constructs collectively describe the relationship between agent autonomy and governance maturity within autonomous AI agent systems.
 The framework is designed to evaluate governance readiness before autonomous agent systems reach operational, financial, or compliance-sensitive environments.
 
-## Repository Structure
+## Framework Logic
 
-framework/
-Contains conceptual documentation for the core constructs of the Autonomy Accountability Framework: 
 
-AAG - Agent Accountability Gap   
-AAS - Agent Accountability Stack   
-AAC - Autonomy Accountability Curve  
-GD - Governance Debt  
+The Autonomy Accountability Framework (AAF) describes how accountability challenges emerge as AI agent systems become more autonomous.
 
-README.md
-Overview of the Autonomy Accountability Framework and the Autonomy Accountability Index.  
 
-terms_of_use.md  
-Terms governing permitted use of the framework.
+The framework is organized as a sequence of related concepts that explain the structural relationship between autonomy, governance risk, and accountability infrastructure.
+
+
+### 1. Autonomy–Accountability Curve (AAC)
+
+
+The Autonomy–Accountability Curve explains how governance complexity increases as agent autonomy expands.  
+Autonomy and accountability do not scale linearly. As systems move from simple automation toward autonomous execution across workflows, systems, and financial processes, accountability requirements grow rapidly.
+
+
+### 2. Agent Accountability Gap (AAG)
+
+
+As autonomy expands, a structural gap emerges between what agents can execute and what organizations can reliably explain, audit, constrain, or override.
+
+
+This structural gap is referred to as the **Agent Accountability Gap**.
+
+
+### 3. Governance Debt (GD)
+
+
+When organizations deploy autonomous systems without closing the accountability gap, they accumulate **Governance Debt**.
+
+
+Governance Debt represents the hidden operational liability created when execution autonomy grows faster than governance infrastructure.
+
+
+### 4. Agent Accountability Stack (AAS)
+
+
+To manage autonomous agent systems, organizations must implement dedicated governance architecture.
+
+
+The **Agent Accountability Stack** defines the oversight layers required to maintain accountability in autonomous execution environments.
+
+
+These layers include:
+
+
+- Decision traceability  
+- Audit infrastructure  
+- Constraint frameworks  
+- Escalation and override mechanisms  
+- Failure containment  
+
+
+### 5. Autonomy Accountability Index (AAI)
+
+
+The **Autonomy Accountability Index** operationalizes the framework by providing a structured evaluation model for measuring governance readiness.
+
+
+AAI evaluates agent systems across five governance dimensions:
+
+
+- Execution Control  
+- Financial Safeguards  
+- Compliance and Auditability  
+- Failure Handling  
+- Human Override Architecture  
+
+
+Together, these concepts provide a structured lens for evaluating governance maturity as autonomy scales.
 
 
 ## How AAF Differs from Existing AI Governance Approaches
@@ -134,6 +189,25 @@ AAI is not:
 - Investment recommendation
 
 It is a structured governance interpretation framework.
+
+## Framework Documentation
+
+## Repository Structure
+
+framework/  
+Contains conceptual documentation for the core constructs of the Autonomy Accountability Framework: 
+
+agent_accountability_gap.md   
+agent_accountability_stack.md   
+autonomy_accountability_curve.md  
+governance_debt.md
+
+README.md
+Overview of the Autonomy Accountability Framework and the Autonomy Accountability Index.  
+
+terms_of_use.md  
+Terms governing permitted use of the framework.
+
 
 ### Roadmap
 Phase 1: Framework Publication  
