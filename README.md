@@ -2,6 +2,16 @@ Research Initiative: Veloryn Intelligence
 Framework Version: AAF v1.0  
 First Publication: 2026
 
+## Research Paper
+
+The Autonomy Accountability Framework (AAF) and the Autonomy Accountability Index (AAI) are introduced in the following research paper:
+
+**The Autonomy Accountability Framework: A Governance Standard for Autonomous AI Agent Systems**
+
+Preprint (Zenodo DOI):  
+https://doi.org/10.5281/zenodo.19018953  
+
+
 # Autonomy Accountability Framework    
 
 Developed by **Veloryn Intelligence**
@@ -246,8 +256,10 @@ For licensing inquiries contact: Veloryn Intelligence
 ### Citation  
 If referencing this framework, please cite:
 
-Veloryn Intelligence (2026).   
-The Autonomy Accountability Framework: A Governance Standard for Autonomous AI Agent Systems.
+P., V. (2026).  
+*The Autonomy Accountability Framework: A Governance Standard for Autonomous AI Agent Systems.*  
+Zenodo. https://doi.org/10.5281/zenodo.19018953 
+
 
 ### Keywords
 AI Governance  
