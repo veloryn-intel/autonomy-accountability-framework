@@ -131,7 +131,30 @@ When agents execute tasks, call tools, interact with external systems, and opera
 
 The Autonomy Accountability Framework focuses specifically on this runtime layer by evaluating the presence of governance primitives within agent system architectures. These include execution control, financial safeguards, failure handling, auditability, and human override mechanisms.
 
-Rather than evaluating model behavior alone, AAF evaluates whether an agent system provides the infrastructure required to maintain accountability when autonomous decisions interact with real-world systems.
+Rather than evaluating model behavior alone, AAF evaluates whether an agent system provides the infrastructure required to maintain accountability when autonomous decisions interact with real-world systems.  
+
+### Positioning within the AI Governance Landscape
+
+| Framework | Primary Focus | Agent Runtime Governance | Designed for AI Agents |
+|-----------|---------------|--------------------------|------------------------|
+| EU AI Act | Regulatory compliance | No | No |
+| NIST AI Risk Management Framework | Organizational risk management | No | No |
+| Model Cards | Model transparency | No | No |
+| Responsible AI Guidelines | Ethical principles | No | No |
+| ISO/IEC 42001 | AI management systems | No | No |
+| **Autonomy Accountability Framework (AAF)** | **Runtime accountability architecture for autonomous AI agents** | **Yes** | **Yes** |
+
+Existing AI governance frameworks primarily address regulatory compliance,
+organizational risk management, or model transparency.
+
+These approaches generally focus on policy, documentation, or model evaluation.
+
+They do not define governance architecture operating within the runtime
+execution layer of autonomous AI agent systems.
+
+The Autonomy Accountability Framework focuses specifically on
+embedding accountability mechanisms directly within the operational
+architecture of autonomous agents.
 
 
 One component of the framework is the Autonomy Accountability Index (AAI),  a governance evaluation model.
@@ -247,18 +270,22 @@ Veloryn Intelligence assumes no liability for decisions made based on this frame
 Full Terms of Use are available in the terms_of_use.md file in this repository.
 
 ### License
-© 2026 Veloryn Intelligence. All rights reserved.
-This framework is proprietary intellectual property of Veloryn Intelligence.
-No part of this framework may be reproduced, modified, distributed, published, sublicensed, incorporated into derivative works, or used for commercial purposes without prior written permission.
-Permitted usage is strictly limited to internal evaluation purposes as defined in the Terms of Use contained in this repository.
-For licensing inquiries contact: Veloryn Intelligence
+© 2026 Veloryn Intelligence.  
+The Autonomy Accountability Framework is proprietary intellectual property of Veloryn Intelligence.  
+The framework may be referenced, cited, or discussed for research, academic, or educational purposes with proper attribution.
+Commercial use, derivative frameworks, or integration into commercial products requires prior written permission from Veloryn Intelligence.  
+For licensing inquiries contact: 	velorynintel@gmail.com
 
 ### Citation  
 If referencing this framework, please cite:
 
-P., V. (2026).  
-*The Autonomy Accountability Framework: A Governance Standard for Autonomous AI Agent Systems.*  
-Zenodo. https://doi.org/10.5281/zenodo.19018953 
+Veloryn Intelligence (2026)  
+
+The Autonomy Accountability Framework:   
+A Governance Standard for Autonomous AI Agent Systems.
+
+Zenodo.  
+https://doi.org/10.5281/zenodo.19018953  
 
 
 ### Keywords
@@ -267,5 +294,10 @@ AI Agents
 Autonomous Systems  
 AI Risk Management  
 Agent Safety  
-AI Accountability
+AI Accountability  
+Autonomy Accountability Framework  
+Agent Accountability Stack  
+Governance Debt  
+Agent Accountability Gap  
+Autonomy Accountability Index  
 
