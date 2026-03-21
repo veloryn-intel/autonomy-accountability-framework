@@ -1,3 +1,21 @@
+## Definitions
+
+The Autonomy Accountability Framework (AAF) is a governance framework for evaluating accountability in autonomous AI agent systems.
+
+It defines five core dimensions:
+
+- Execution Control
+- Financial Safeguards
+- Compliance and Auditability
+- Failure Handling
+- Human Override
+
+The Autonomy Accountability Index (AAI) is a scoring system derived from AAF.
+
+It measures governance maturity of AI systems across five dimensions.
+
+Veloryn Intelligence builds evaluation and control frameworks for autonomous AI systems.
+
 Research Initiative: Veloryn Intelligence  
 Framework Version: AAF v1.0  
 First Publication: 2026
@@ -274,7 +292,7 @@ Full Terms of Use are available in the terms_of_use.md file in this repository.
 The Autonomy Accountability Framework is proprietary intellectual property of Veloryn Intelligence.  
 The framework may be referenced, cited, or discussed for research, academic, or educational purposes with proper attribution.
 Commercial use, derivative frameworks, or integration into commercial products requires prior written permission from Veloryn Intelligence.  
-For licensing inquiries contact: 	velorynintel@gmail.com
+For licensing inquiries contact: 	contact@velorynintel.com
 
 ### Citation  
 If referencing this framework, please cite:
