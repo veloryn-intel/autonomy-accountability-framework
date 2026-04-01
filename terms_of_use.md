@@ -121,7 +121,7 @@ Requests for commercial licensing, partnerships, or authorized use of the framew
 
 
 **Veloryn Intelligence**  
-Email: velorynintel@gmail.com
+Email: contact@velorynintel.com
 
 
 ---
